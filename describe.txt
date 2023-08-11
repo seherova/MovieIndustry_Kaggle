@@ -1,0 +1,3 @@
+Kaggle'daki Movie Industry data seti ile oluşturduğum bu çalışmayı beğendiyseniz Medium hesabımdan daha fazlasına ulaşabilirsiniz. 
+
+Yazım: https://medium.com/@ovaseher1/explore-the-film-industry-with-hypotheses-a-kaggle-dataset-analysis-9682afe6b0a2
